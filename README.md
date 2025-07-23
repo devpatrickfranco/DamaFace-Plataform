@@ -1,1 +1,3 @@
 # DamaFace-Plataform
+
+## Requisitos Funcionais
